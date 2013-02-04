@@ -5,7 +5,7 @@ Galcon 2 Mods!
 
 I am a member of the Galcon 2 private beta, and I'm playing with the modding platform a little.  I'll put my creations here.
 
-=== Training Mod
+### Training Mod
 
 This mod currently includes 3 mini-games designed to train specific skills I find important to effective multi-player Galcon.
 
